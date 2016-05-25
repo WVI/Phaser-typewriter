@@ -45,7 +45,8 @@ The game instance that we want the tooltips to appear to, such as "game"
   <li><strong>maxWidth: </strong> The maximum width where the text will wrap (default: 200)</li>
 	<li><strong>fontFamily: </strong> The font family for the text to be writen (default: Arial)</li>
   <li><strong>fontSize: </strong> The font size for the text (default: 28)</li>
-  <li><strong>sound: </strong> The sound effect to play during the typewriter effect, it auto-stops when typing ends (default: null)</li>
+  <li><strong>sound: </strong> The sound file to play during the typewriter effect, it auto-stops when typing ends (default: null)</li>
+  <li><strong>soundMarker: </strong> If you want to use a sound marker for the aforementioned sound file, give it here (default: null)</li>
 </ul>
 
 <strong>API Functions</strong>
